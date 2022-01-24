@@ -1,6 +1,6 @@
-name: Feature Request
+name: Notes/Improvements/Suggestions
 description: Existing feature notes/improvements/suggestions
-labels: [feature request]
+labels: [documentation]
 body:
   - type: textarea
     attributes:
