@@ -6,6 +6,8 @@ body:
     attributes:
       label: New Features
       description: Possible new feature for the next versions
+      validations:
+      required: false
   - type: textarea
     attributes:
   - type: textarea
