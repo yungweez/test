@@ -1,5 +1,5 @@
 name: Bug Report
-description: Create a bug report to help improve DevToys
+description: Create a bug report to help improve Calabara
 labels: [bug]
 body:
   - type: textarea
