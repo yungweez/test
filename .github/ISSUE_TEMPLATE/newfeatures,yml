@@ -1,0 +1,20 @@
+name: New Features for next Versions
+description: Community hurdles that could be addressed with new features in future versions
+labels: [New Features]
+body:
+  - type: textarea
+    attributes:
+      label: New Features
+      description: Possible new feature for the next versions
+  - type: textarea
+    attributes:
+  - type: textarea
+    attributes:
+      label: Notes
+      description: Describe
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Comments
+      description: Additional information, comments or screenshots about the feature request.
