@@ -18,7 +18,7 @@ body:
         3. Scroll down to '....'
         4. See the error
     validations:
-      required: True
+      required: false
   - type: textarea
     attributes:
       label: Expected behavior
@@ -27,14 +27,11 @@ body:
       required: false
   - type: textarea
     attributes:
-      label: Relevant Assets/Logs
+      label: Screenshots
       description: |
-        A list of assets (logs, screenshots, etc) relevant to this bug.
-
-        Tip: You can attach image(s) or log file(s) by clicking this area to highlight it and then dragging files in.
+       Screenshots Relevant to this bug
+        Tip: You can attach image(s) by dragging files in.
       placeholder: |
-        To upload the log, access it from Settings -> About -> Open log location; Or
-        - Copy the `logs.txt` file from `%localappdata%\Packages\64360VelerSoftware.DevToys_j80j2txgjg9dj\LocalCache`
         - Drag and drop them into this text area.
     validations:
-      required: true
+      required: false
