@@ -1,6 +1,6 @@
 name: Notes/Improvements/Suggestions
 description: Existing feature notes/improvements/suggestions
-labels: [documentation]
+labels: [enhancement, documentation]
 body:
   - type: textarea
     attributes:
